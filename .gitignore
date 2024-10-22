@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+.cache/
+*.tgz
+
+# IDE and editor files
+.idea/
+.vscode/
+.DS_Store
+
+# Coverage files
+coverage/
+
+# Testing
+jest/
+test/
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
